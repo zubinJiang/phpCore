@@ -5,8 +5,6 @@
 @ftpTtest => 用php的ftp扩展函数完成上传解压zip文件包到远程服务
 
 
-
-
 @author:jiangzubin
 @mail:jiangzubin1989@gmail.com
 @weibo:http://t.sina.com/yangpage
