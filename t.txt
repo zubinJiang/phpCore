@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 http://www.oschina.net/p/xuncache/similar_projects#list
 http://www.cnblogs.com/lhb25/archive/2011/07/26/awesome-html5-corporate-sites.html
 
@@ -105,6 +104,3 @@ http://blog.csdn.net/yihui8/article/details/6445847
 
 
 http://zhidao.baidu.com/question/136457375.html
-=======
-test 本地
->>>>>>> 41fc380b5b56030eefa5fa82ad06a28516d619ac
